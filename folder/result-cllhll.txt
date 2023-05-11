@@ -1,0 +1,1 @@
+now we combine the value from the first and second txt filehi this is read first sync, and second hi this is read second async, 
