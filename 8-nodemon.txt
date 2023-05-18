@@ -1,0 +1,7 @@
+in package json give the script as 'nodemon app.js' in start script and 'nodemon app.js' in 
+for uninstalling in npm we can use the npm uninstall package name or can use nuclear approach just like in gastby
+nuclear approach in gastby,as we can remove the unwanted package in jason and give npm install 
+for global install npm pack -g
+npm run dev - dev - watch and run
+npm run start - start - run
+in browser api has the facilities to offload and in node it has no ability
